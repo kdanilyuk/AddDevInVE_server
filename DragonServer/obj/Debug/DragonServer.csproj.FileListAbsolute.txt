@@ -1,0 +1,10 @@
+D:\Study\4sem\Разработка приложений в визуальных средах\Курсовая\DragonServer\DragonServer\bin\Debug\DragonServer.exe.config
+D:\Study\4sem\Разработка приложений в визуальных средах\Курсовая\DragonServer\DragonServer\bin\Debug\DragonServer.exe
+D:\Study\4sem\Разработка приложений в визуальных средах\Курсовая\DragonServer\DragonServer\bin\Debug\DragonServer.pdb
+D:\Study\4sem\Разработка приложений в визуальных средах\Курсовая\DragonServer\DragonServer\obj\Debug\DragonServer.csprojAssemblyReference.cache
+D:\Study\4sem\Разработка приложений в визуальных средах\Курсовая\DragonServer\DragonServer\obj\Debug\DragonServer.Form1.resources
+D:\Study\4sem\Разработка приложений в визуальных средах\Курсовая\DragonServer\DragonServer\obj\Debug\DragonServer.Properties.Resources.resources
+D:\Study\4sem\Разработка приложений в визуальных средах\Курсовая\DragonServer\DragonServer\obj\Debug\DragonServer.csproj.GenerateResource.cache
+D:\Study\4sem\Разработка приложений в визуальных средах\Курсовая\DragonServer\DragonServer\obj\Debug\DragonServer.csproj.CoreCompileInputs.cache
+D:\Study\4sem\Разработка приложений в визуальных средах\Курсовая\DragonServer\DragonServer\obj\Debug\DragonServer.exe
+D:\Study\4sem\Разработка приложений в визуальных средах\Курсовая\DragonServer\DragonServer\obj\Debug\DragonServer.pdb
